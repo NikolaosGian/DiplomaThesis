@@ -1,4 +1,4 @@
-# DiplomaThesis2
+# DiplomaThesis
  
 ## About:
 This repository containing the Phase Method Eulerian Motion Magnification (EVM) implementation on Kria Xilinx Board KR260
